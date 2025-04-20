@@ -1,3 +1,5 @@
 # stepik_auto_tests_course
-The course homework is stored here
-This course: https://stepik.org/course/575/syllabus
+Это место создано специально для домашних заданий по курсу на сайте Stepik.
+Данный курс посвящён автоматизации тестирования с помощью selenium и python.  
+
+Если вам это интересно, то вот ссылка на него: [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus "Страница курса на сайте Stepik")
